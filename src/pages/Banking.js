@@ -179,7 +179,7 @@ const Banking = () => {
         <div className="balance-card">
           <div className="balance-header">
             <h2>Chase Total Checking®</h2>
-            <span className="account-number">Account ending in ••••1234</span>
+            <span className="account-number">Account ending in ••••4758</span>
           </div>
           <div className="balance-amount">
             <span className="balance-label">Available Balance</span>
